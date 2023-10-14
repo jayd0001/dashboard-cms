@@ -27,22 +27,7 @@ function TabsChart(props) {
           <div className={classes.summary}>
             <Typography variant="h4">Overview</Typography>
           </div>
-          {/* <div className={classes.legends}>
-            <div className={classes.legend}>
-              <span
-                className={classes.legendColor}
-                style={{ backgroundColor: palette.primary.main }}
-              />
-              <Typography variant="body1">This year</Typography>
-            </div>
-            <div className={classes.legend}>
-              <span
-                className={classes.legendColor}
-                style={{ backgroundColor: palette.common.neutral }}
-              />
-              <Typography variant="body1">Last year</Typography>
-            </div>
-          </div> */}
+
         </div>
         <div className={classes.chart}>
           <Bar data={data} options={options} />
