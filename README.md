@@ -9,10 +9,6 @@
 
 - Web View
 
-
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/aa4853d5-4b63-4c15-91bc-8623486d7192)
-
-
 ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/3c4aea38-d192-499e-93f7-6eb3cba36f25)
 
 
