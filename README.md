@@ -7,6 +7,9 @@
   
 # Implementation Reference Image
 
+- Web View
+
+
 ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/aa4853d5-4b63-4c15-91bc-8623486d7192)
 
 
@@ -14,6 +17,9 @@
 
 
 ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/35e7721f-2173-4919-96b0-23f9d7aff68e)
+
+
+- Mobile View
 
 
 ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/97222b9c-076c-4848-84e4-716a69d99994)
