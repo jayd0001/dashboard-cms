@@ -19,8 +19,8 @@
 
 - Mobile View
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/ae4ca703-9f8a-463f-879d-6682f7f4cb42)
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/ae4ca703-9f8a-463f-879d-6682f7f4cb42)   ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/3cec4a68-ea67-411d-b9a9-6c9a154db9d3)     ![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/c0a4952b-e03e-4781-b22b-777060f9978c)
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/3cec4a68-ea67-411d-b9a9-6c9a154db9d3)
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/c0a4952b-e03e-4781-b22b-777060f9978c)
+
+
