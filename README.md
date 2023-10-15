@@ -9,19 +9,18 @@
 
 - Web View
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/3c4aea38-d192-499e-93f7-6eb3cba36f25)
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/17086924-ed6a-4d8d-8656-60fec1e392b2)
 
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/35e7721f-2173-4919-96b0-23f9d7aff68e)
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/128c7b4f-a424-4002-abb7-35ee5fb20fb8)
+
+
 
 
 - Mobile View
 
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/ae4ca703-9f8a-463f-879d-6682f7f4cb42)
 
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/97222b9c-076c-4848-84e4-716a69d99994)
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/3cec4a68-ea67-411d-b9a9-6c9a154db9d3)
 
-
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/d7a2aa5f-7a69-4e25-9148-8f42f8537966)
-
-
-![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/ca3f5ad5-e9de-45bd-b1ba-ba81a47227af)
+![image](https://github.com/jayd0001/dashboard-cms/assets/81345945/c0a4952b-e03e-4781-b22b-777060f9978c)
