@@ -23,12 +23,6 @@ function TabsChart(props) {
   return (
     <Portlet {...rest} className={rootClassName}>
       <PortletContent noPadding>
-        <div className={classes.details}>
-          <div className={classes.summary}>
-            <Typography variant="h4">Overview</Typography>
-          </div>
-
-        </div>
         <div className={classes.chart}>
           <Bar data={data} options={options} />
         </div>
@@ -44,7 +38,5 @@ function TabsChart(props) {
     </Portlet>
   );
 }
-
-
 
 export default withStyles(styles)(TabsChart);

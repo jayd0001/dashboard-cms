@@ -7,8 +7,7 @@ export default theme => ({
   details: {
     minWidth: '700px',
     display: 'flex',
-    justifyContent: 'space-between',
-    padding: theme.spacing.unit * 4
+    justifyContent: 'space-between'
   },
   summary: {},
   legends: {},
