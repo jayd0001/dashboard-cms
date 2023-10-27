@@ -1,3 +1,6 @@
+#  This is Static Dashboard CMS React-App
+
+
 #  To Run this Project on to local Machine, few  specific versions are required due to (node-sass)
 
 - node version 11.14.0
